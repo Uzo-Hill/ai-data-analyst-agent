@@ -5,6 +5,10 @@ The project combines **Google Gemini**, **DuckDB**, **Python**, **Pandas**, **St
 
 ---
 
+*![Intro_Image](https://github.com/Uzo-Hill/ai-data-analyst-agent/blob/main/project_image/image_intro.png)*
+
+---
+
 ## Project Overview
 
 InsightForge was built to demonstrate how Agentic AI can automate business data analysis through intelligent tool orchestration rather than simple text generation.
@@ -163,7 +167,7 @@ This routing strategy improves efficiency while reducing unnecessary computation
 
 ## Preview
 
-<!-- ![InsightForge demo](screenshots/demo-screenshot.png) -->
+*![Intro_Image](https://github.com/Uzo-Hill/ai-data-analyst-agent/blob/main/project_image/app_view.PNG)*
 
 
 
