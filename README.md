@@ -161,6 +161,14 @@ This routing strategy improves efficiency while reducing unnecessary computation
 
 ---
 
+## Preview
+
+<!-- ![InsightForge demo](screenshots/demo-screenshot.png) -->
+
+
+
+---
+
 ## Safety Features
 
 InsightForge includes several engineering features designed to improve reliability and robustness.
