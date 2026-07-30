@@ -255,6 +255,7 @@ streamlit run frontend/streamlit_app.py
 **Data Scientist | AI Engineer**
 
 LinkedIn : https://www.linkedin.com/in/hillaryuzoh/
+
 Email : uzohhillary@gmail.com
 
 
